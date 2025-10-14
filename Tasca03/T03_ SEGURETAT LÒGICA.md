@@ -1,6 +1,6 @@
 T03:SEGURETAT LÒGICA
 
-![][image1]  
+![imatge][/Tasca03/IMG/1]  
 Abans de iniciar la máquina anem a la configuració per afegir un disc dur de seguretat   
 ![][image2]  
 Al entrar a la máquina virtual mantindrem el shift per entrar en aquest menú i seleccionarem la segona opció la de “Advanced options for zorin”.   
