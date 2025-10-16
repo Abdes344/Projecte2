@@ -34,7 +34,7 @@ Un cop dins de la maquina entrarem en el usuari que acabem de canviar la contras
 
 Al entrar a la màquina virtual entrarem a la terminal per ficar la següent comanda “sudo grub-mkpasswd-pbkdf2” i al ficar la comanda ens donara el hash de la nostra contrasenya  
 
-![](/Tasca03/IMG/9.png)  
+![](/Tasca03/IMG/8.png)  
 
 Per entrar en aquest apartat el que tindrem que fer sera fer el “sudo nano /etc/grub.d/40\_custom”
 
