@@ -20,7 +20,7 @@ Entrarem en aquest menú de aqui i el que farem sera anar a la penúltima opció
 
 Després de entrar en el menu del root fiquem el següent codi per poder cambiar la contraseña “passwd miquel” després de ficar això ja podrem canviar la contrasenya
 
-![](/Tasca03/IMG/15.png) 
+![](/Tasca03/IMG/20.png) 
 .
 ![](/Tasca03/IMG/16.png)  
 
