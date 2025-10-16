@@ -4,27 +4,39 @@
 
 Abans de iniciar la máquina anem a la configuració per afegir un disc dur de seguretat  
 
+---
+
 ![Imatge](/Tasca03/IMG/2.png)
 
 Al entrar a la máquina virtual mantindrem el shift per entrar en aquest menú i seleccionarem la segona opció la de “Advanced options for zorin”.   
+
+---
 
 ![](/Tasca03/IMG/3.png)
 
 Després de entrar en la opció anterior ara tornarem a triar la segona opció “Zorin, with Linux 6.8.0-85-generic (recovery mode)”.   
 
+---
+
 ![](/Tasca03/IMG/4.png)  
 
 Entrarem en aquest menú de aqui i el que farem sera anar a la penúltima opción que es la de root i li donarem a enter per accedir  
 
+---
+
 ![](/Tasca03/IMG/5.png) 
 
 Després de entrar en el menu del root fiquem el següent codi per poder cambiar la contraseña “passwd miquel” després de ficar això ja podrem canviar la contrasenya
+
+---
 
 ![](/Tasca03/IMG/20.png) 
 .
 ![](/Tasca03/IMG/16.png)  
 
 Després de canviar la contrasenya ens tornarà a sortir el mateix menú que abans y el que tindrem que fer sera donar li a la primera opció “Continuar con el arranque normal” y després de donar li a aquesta opció li donem a aceptar i ja haurem canviat la contrasenya
+
+---
 
 ![](/Tasca03/IMG/22.png)  
 
