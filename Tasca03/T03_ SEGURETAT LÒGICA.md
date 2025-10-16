@@ -75,4 +75,4 @@ Després de reiniciar la maquina ens sortirà aquest apartat on tindrem que fica
 ---
 
 ![](/Tasca03/IMG/14.png)    
-I Aquí ja estaria tot fet i només ficant la contrasenya ja estaria 
+✅ I Aquí ja estaria tot fet i només ficant la contrasenya ja estaria 🚀
