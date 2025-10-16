@@ -38,7 +38,7 @@ Al entrar a la màquina virtual entrarem a la terminal per ficar la següent com
 
 Per entrar en aquest apartat el que tindrem que fer sera fer el “sudo nano /etc/grub.d/40\_custom”
 
-![](/Tasca03/IMG/10.png)  
+![](/Tasca03/IMG/9.png)  
 
 Després de ficar la comanda anterior el que ficarem ara será el hash que van aconseguir de la comanda “sudo grub \-mkpasswd-pbkdf2” 
 
