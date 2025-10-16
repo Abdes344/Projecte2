@@ -1,4 +1,4 @@
-## T03:SEGURETAT LÒGICA
+## T03:SEGURETAT LÒGICA 🔒🧠💻
 
 ![imatge](/Tasca03/IMG/1.png)
 
