@@ -42,7 +42,7 @@ Per entrar en aquest apartat el que tindrem que fer sera fer el “sudo nano /et
 
 Després de ficar la comanda anterior el que ficarem ara será el hash que van aconseguir de la comanda “sudo grub \-mkpasswd-pbkdf2” 
 
-![](/Tasca03/IMG/11.png)  
+![](/Tasca03/IMG/10.png)  
 ![](/Tasca03/IMG/12.png)  
 
 Ara actualitzarem amb la comanda “sudo update-grub” el que es fa amb aquesta comanda es actualizar el grub. I amb el següent comanda “sudo grub-mkconfig \-o /boot/grub/grub.cfg” el que farem amb aquesta comanda sera crear un nou arxiu de configuració 
