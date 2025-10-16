@@ -30,7 +30,7 @@ Després de canviar la contrasenya ens tornarà a sortir el mateix menú que aba
 
 Un cop dins de la maquina entrarem en el usuari que acabem de canviar la contrasenya i només ficant la contrasenya que hem ficat fa un moment ja estarem dins del usuari
 
-![](/Tasca03/IMG/9.png)  
+![](/Tasca03/IMG/7.png)  
 
 Al entrar a la màquina virtual entrarem a la terminal per ficar la següent comanda “sudo grub-mkpasswd-pbkdf2” i al ficar la comanda ens donara el hash de la nostra contrasenya  
 
