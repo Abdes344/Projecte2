@@ -26,7 +26,7 @@ Després de entrar en el menu del root fiquem el següent codi per poder cambiar
 
 Després de canviar la contrasenya ens tornarà a sortir el mateix menú que abans y el que tindrem que fer sera donar li a la primera opció “Continuar con el arranque normal” y després de donar li a aquesta opció li donem a aceptar i ja haurem canviat la contrasenya
 
-![](/Tasca03/IMG/8.png)  
+![](/Tasca03/IMG/22.png)  
 
 Un cop dins de la maquina entrarem en el usuari que acabem de canviar la contrasenya i només ficant la contrasenya que hem ficat fa un moment ja estarem dins del usuari
 
