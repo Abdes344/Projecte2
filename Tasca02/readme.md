@@ -62,4 +62,4 @@ Realitzar un estudi tècnic per seleccionar un **SAI (Sistema d’Alimentació I
 L’informe ha d’estar redactat amb claredat i ben estructurat. Es pot lliurar en format **Markdown**, PDF o Word, segons s’indiqui per part del responsable del projecte.
 
 ---
-[Solució Tasca02](/Tasca02/Solució.md/)
+[Solució Tasca02](/Tasca02/Solució.md/) ✅🚀
